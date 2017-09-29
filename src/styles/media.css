@@ -13,7 +13,7 @@
         height: 30%;
         width: 100%;
         border-radius: 0;
-        padding: 50px 40px 20px 40px;
+        padding: 50px 25px 20px 25px;
     }
 
     .widget {
@@ -28,6 +28,14 @@
 
     .bottom__indicators {
         margin: 0 0 50px 0;
+    }
+
+    .indicators__logo {
+        margin: 0 10px 0 0;
+    }
+
+    .indicators__value {
+        margin: 0 25px 0 0;
     }
 
 }
